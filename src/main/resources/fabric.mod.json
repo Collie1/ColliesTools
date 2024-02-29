@@ -22,9 +22,6 @@
 			"io.github.collie1.colliestools.ColliesToolsDataGenerator"
 		]
 	},
-	"mixins": [
-		"colliestools.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.15.7",
 		"minecraft": "~1.20.4",
