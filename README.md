@@ -8,7 +8,7 @@ Colliefarmer
 
 #### Does tihs work with bedrock
 
-Ofcourse not
+Of course not
 
 #### Will i port this to later version or forge
 
