@@ -1,5 +1,9 @@
 {
   "itemGroup.collies_tools": "Collies Tools",
   "item.colliestools.elemental_sword": "Elemental Sword",
-  "item.colliestools.elemental_axe": "Elemental Axe"
+  "item.colliestools.elemental_axe": "Elemental Axe",
+  "item.colliestools.elemental_pickaxe": "Elemental Pickaxe",
+  "item.colliestools.elemental_shovel": "Elemental Shovel",
+  "item.colliestools.elemental_hoe": "Elemental Hoe",
+  "item.colliestools.elemental_ingot": "Elemental Ingot"
 }
